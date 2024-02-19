@@ -1,0 +1,362 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,800;1,200;1,300;1,500&family=Ubuntu:wght@400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Kaushan+Script&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  border: none;
+  outline: none;
+  list-style: none;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+
+}
+.sidebar{
+ color: red; 
+ width: 100%;
+}
+.Layout{
+  width: 100%;
+}
+.logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  padding: 10px;
+  left: 200px;
+  width: 100%;
+}
+.logo-icon {
+  
+  width: 500px;
+  height: 40px;
+  
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5rem;
+  border-radius: 50%;
+  background: rgba(28, 17, 41, 0.88);
+}
+h4{
+  font-family: 'Dancing Script' ;
+  font-size: 30px;
+  color: darkgoldenrod;
+
+}
+.menu{
+  height: 85.5vh;
+  margin-top: 2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  font-size: 1rem;
+  position: relative;
+  font-size: 18px;
+}
+.Togglebtn{
+  position: absolute;
+  bottom: 0;
+  left: 152px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1rem;
+}
+.toggle{
+  margin-left: 0;
+}
+h3{
+  margin-top: 100px;
+  display: flex;
+  width: 1000px;
+  background-color: red;
+  height: 100vh;
+  justify-content: center;
+  
+}
+
+.image-btn img{
+  border: 4px groove #0cf073 ;
+  padding: 3px;
+}
+img {
+  height: 70px;
+  width: 70px;
+  justify-content: center;
+  align-items: center;
+  margin-top: 30px;
+  margin-left: 70px;
+  border-radius: 100%;
+  
+
+}
+.btn{
+  height: 60px;
+  width: 60px;
+  justify-content: center;
+  align-items: center;
+  margin-top: -105px;
+  margin-left: 86px;
+  border-radius: 100%;
+  border-color: black;
+  
+  
+}
+.btn1{
+  height: 60px;
+  width: 60px;
+  justify-content: center;
+  align-items: center;
+  margin-top: -60px;
+  margin-left: 170px;
+  
+}
+.btn2{
+  height: 60px;
+  width: 60px;
+  justify-content: center;
+  align-items: center;
+  margin-top: -60px;
+  margin-left: 255px;
+  border-radius: 100%;
+}
+.btn3{
+  height: 60px;
+  width: 60px;
+  justify-content: center;
+  align-items: center;
+  margin-top: -60px;
+  margin-left: 337px;
+  border-radius: 100%;
+}
+.btn4{
+  height: 60px;
+  width: 60px;
+  justify-content: center;
+  align-items: center;
+  margin-top: -60px;
+  margin-left: 420px;
+  border-radius: 100%;
+}
+.btn5{
+  height: 60px;
+  width: 60px;
+  justify-content: center;
+  align-items: center;
+  margin-top: -60px;
+  margin-left: 505px;
+  border-radius: 100%;
+}
+
+Content{
+  margin-left: 100px;
+}
+
+h5{
+  display: flex;
+  margin-top: 40px;
+  margin-left: 87px;
+}
+h5.emer{
+margin-top: -17px;
+margin-left: 156px;
+
+}
+h5.cj{
+  margin-top: -17px;
+  margin-left: 247px;
+}
+h5.perez{
+  margin-top: -17px;
+  margin-left: 345px;
+}
+h5.ayson{
+  margin-top: -17px;
+  margin-left: 420px;
+}
+h5.jayson{
+  margin-top: -17px;
+  margin-left: 505px;
+}
+h5.van{
+  margin-top: -17px;
+  margin-left: 599px;
+}
+
+h5.feet{
+  background-color: red;
+  margin-left: 500px;
+  justify-content: center;
+  align-items: center;
+  margin-top: -200px;
+}
+.list{
+  margin-left: 200px;
+  flex-direction: row;
+  position: absolute;
+  display: flex;
+  padding: 0;
+  width: 0px;
+  margin-top: -200px;
+}
+p.book{
+  
+  color: black;
+  font-size: 25px;
+  margin-left: 200px;
+  flex-direction: row;
+  position: relative;
+  display: flex;
+  padding: 0;
+  gap: 20rem;
+  margin-left: 300px;
+  margin-top: -100px;
+}
+.book4{
+
+  color: black;
+  font-size: 27px;
+  margin-left: 400px;
+  flex-direction: row;
+  position: relative;
+  display: flex;
+  padding: 0;
+  gap: 1.5rem;
+  margin-top: -100px;
+}
+.book.p{
+  color: black;
+}
+p.book5{
+  color: black;
+  font-size: 27px;
+  margin-left: 200px;
+  flex-direction: row;
+  position: relative;
+  display: flex;
+  padding: 0;
+  gap: 1rem;
+  margin-top: 0px;
+}
+.put{
+  background-color: lightgrey;
+  margin-top: 60px;
+  margin-left: -410px;
+  width: 399px;
+  border-radius: 20px;
+  color: black;
+}
+
+
+.mango{
+  background-image: url(../src/images/group3.png);
+  margin-top: -500px;
+  width: 400px;
+  height: 460px;
+  margin-left: -440px;
+  margin-top: -480px;
+  background-repeat: no-repeat;
+}
+p.name{
+  margin-top: 30px;
+  margin-left: -410px;
+  font-weight: lighter;
+  font-size: medium;
+}
+.side1{
+  background-image: url(../src/components/side/me1.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin-left: 1000px;
+  margin-top: -650px;  
+  width: 45px;
+  height: 45px;
+  border-radius: 100%;
+  margin-bottom: 20px;
+}
+
+.side3{
+  width: 100%;
+}
+.side3 input[type="radio"]{
+  width: 45px;
+  height: 45px;
+  gap: 20px;
+  display: inline-block;
+  border-radius: 100%;
+  outline: none;
+  appearance: none;
+  cursor: pointer;
+  margin-bottom: 15px;
+  margin-top: -5px;
+  
+}
+#img-1{
+  background-image: url(../src/components/side/emer2.jpg);
+  background-size: cover;
+  margin-top: 10px;
+}
+#img-2{
+  background-image: url(../src/components/side/cj.jpg);
+  background-size: cover;
+}
+#img-3{
+  background-image: url(../src/components/side/les.jpg);
+  background-size: cover;
+}
+
+#img-4{
+  background-image: url(../src/components/side/neth.jpg);
+  background-size: cover;
+}
+.me2{
+  font-size: 12px;
+  margin-top: -10px;
+  margin-left: 105px;
+}
+.me{
+  font-size: 14px;
+  margin-top: -110px;
+  margin-left: -45px;
+  font-weight: 500;
+}
+.me{
+  font-size: 14px;
+  margin-top: -110px;
+  margin-left: -45px;
+  font-weight: 500;
+}
+.switch{
+  margin-left: 170px;
+  margin-top: -30px;
+  color: rgb(24, 187, 242);
+  font-size: 15px;
+  font-weight: 500;
+  font-family:  'Times New Roman', Times, serif;
+}
+.me1{
+  font-size: 15px;
+  font-family: 'Calibri', Times, serif;
+  font-weight: lighter;
+  color: gray;
+  margin-left: -45px;
+  width: 200px;
+}
+.sugg{
+  margin-left: 0px;
+  font-size: 15px;
+  font-weight: 500;
+  color: gray;
+  margin-top: 40px;
+  width: 200px;
+}
+.sugg1{
+  margin-left: 100px;
+  font-size: 15px;
+  font-weight: 500;
+  color: gray;
+  margin-top: -24px;
+  
+}
+

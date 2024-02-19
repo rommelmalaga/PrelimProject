@@ -1,0 +1,84 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css");
+.new{
+    margin-left: 578px;
+    margin-top: -470px;
+}
+.sidee{
+    font-size: 17px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight:700;
+}
+.sidee2{
+    font-size: 12px;
+    color: gray;
+}
+.sid1{
+    margin-top: 25px;
+    font-size: 17px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+}
+.sid2{
+    font-size: 12px;
+    color: gray;
+}
+.si1{
+    margin-top: 23px;
+    font-size: 17px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+}
+.si2{
+    font-size: 12px;
+    color: gray;
+}
+.s1{
+    margin-top: 20px;
+    font-size: 17px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+}
+.s2{
+    font-size: 12px;
+    color: gray;
+}
+.tp1{
+    margin-left: 210px;
+    margin-top: -253px;
+    font-size: 15px;
+    font-weight: 500;
+}
+.tp2{
+    margin-top: 20px;
+    color: rgb(24, 187, 242);
+  font-size: 12px;
+  font-family:  'Times New Roman', Times, serif;
+    
+}
+.t1{
+    margin-top: 40px;
+}
+.t2{
+    margin-top: 40px;
+}
+.t3{
+    margin-top: 40px;
+}
+.foot1{
+    width: 300px;
+    margin-top: 90px;
+    margin-left:-270px;
+    font-weight: lighter;
+    color: gray;
+
+}
+.foot1 a{
+    text-decoration: none;
+}
+footer{
+    font-size: 11px;
+}
+.foot11{
+    margin-top: 25px;
+    font-size: 11px;
+}
